@@ -1,0 +1,1377 @@
+{
+    "Code Card - Paradox Rift Booster Pack - SV04: Paradox Rift (SV04)": {
+        "base": 0.07,
+        "holo": 0,
+        "reverse": 0
+    },
+    "163": {
+        "base": 1.05,
+        "holo": 0,
+        "reverse": 4.09
+    },
+    "160": {
+        "base": 0.71,
+        "holo": 0,
+        "reverse": 1.72
+    },
+    "170": {
+        "base": 0.22,
+        "holo": 0,
+        "reverse": 0.53
+    },
+    "159": {
+        "base": 0.19,
+        "holo": 0,
+        "reverse": 0.31
+    },
+    "180": {
+        "base": 0.12,
+        "holo": 0,
+        "reverse": 0.62
+    },
+    "164": {
+        "base": 0.13,
+        "holo": 0,
+        "reverse": 0.39
+    },
+    "178": {
+        "base": 0.19,
+        "holo": 0,
+        "reverse": 0.65
+    },
+    "177": {
+        "base": 0.16,
+        "holo": 0,
+        "reverse": 0.29
+    },
+    "126": {
+        "base": 0.24,
+        "holo": 0,
+        "reverse": 0.25
+    },
+    "070": {
+        "base": 0,
+        "holo": 14.69,
+        "reverse": 0
+    },
+    "171": {
+        "base": 0.11,
+        "holo": 0,
+        "reverse": 0.61
+    },
+    "166": {
+        "base": 0.1,
+        "holo": 0,
+        "reverse": 0.21
+    },
+    "139": {
+        "base": 0,
+        "holo": 5.31,
+        "reverse": 0
+    },
+    "182": {
+        "base": 0.09,
+        "holo": 0,
+        "reverse": 0.18
+    },
+    "124": {
+        "base": 0,
+        "holo": 6.41,
+        "reverse": 0
+    },
+    "181": {
+        "base": 0.12,
+        "holo": 0,
+        "reverse": 0.22
+    },
+    "179": {
+        "base": 0.11,
+        "holo": 0,
+        "reverse": 0.28
+    },
+    "086": {
+        "base": 0.09,
+        "holo": 0,
+        "reverse": 0.22
+    },
+    "089": {
+        "base": 0,
+        "holo": 1.55,
+        "reverse": 0
+    },
+    "058": {
+        "base": 0,
+        "holo": 1.37,
+        "reverse": 0
+    },
+    "056": {
+        "base": 0.07,
+        "holo": 0,
+        "reverse": 0.23
+    },
+    "038": {
+        "base": 0,
+        "holo": 1.48,
+        "reverse": 0
+    },
+    "123": {
+        "base": 0,
+        "holo": 0.16,
+        "reverse": 0.23
+    },
+    "046": {
+        "base": 0,
+        "holo": 1.31,
+        "reverse": 0
+    },
+    "108": {
+        "base": 0,
+        "holo": 1.07,
+        "reverse": 0
+    },
+    "098": {
+        "base": 0,
+        "holo": 0.83,
+        "reverse": 0
+    },
+    "032": {
+        "base": 0,
+        "holo": 0.09,
+        "reverse": 0.11
+    },
+    "049": {
+        "base": 0,
+        "holo": 0.06,
+        "reverse": 0.11
+    },
+    "087": {
+        "base": 0.12,
+        "holo": 0,
+        "reverse": 0.13
+    },
+    "081": {
+        "base": 0,
+        "holo": 0.06,
+        "reverse": 0.12
+    },
+    "167": {
+        "base": 0.07,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "104": {
+        "base": 0,
+        "holo": 0.06,
+        "reverse": 0.15
+    },
+    "155": {
+        "base": 0,
+        "holo": 0.78,
+        "reverse": 0
+    },
+    "248": {
+        "base": 0,
+        "holo": 31.23,
+        "reverse": 0
+    },
+    "107": {
+        "base": 0.08,
+        "holo": 0,
+        "reverse": 0.17
+    },
+    "223": {
+        "base": 0,
+        "holo": 19.92,
+        "reverse": 0
+    },
+    "027": {
+        "base": 0,
+        "holo": 0.7,
+        "reverse": 0
+    },
+    "137": {
+        "base": 0,
+        "holo": 0.69,
+        "reverse": 0
+    },
+    "091": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "162": {
+        "base": 0.07,
+        "holo": 0,
+        "reverse": 0.13
+    },
+    "168": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "156": {
+        "base": 0,
+        "holo": 0.68,
+        "reverse": 0
+    },
+    "100": {
+        "base": 0,
+        "holo": 0.59,
+        "reverse": 0
+    },
+    "125": {
+        "base": 0,
+        "holo": 0.08,
+        "reverse": 0.16
+    },
+    "175": {
+        "base": 0.07,
+        "holo": 0,
+        "reverse": 0.19
+    },
+    "094": {
+        "base": 0.08,
+        "holo": 0,
+        "reverse": 0.13
+    },
+    "264": {
+        "base": 0,
+        "holo": 9.91,
+        "reverse": 0
+    },
+    "141": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.16
+    },
+    "140": {
+        "base": 0,
+        "holo": 0.52,
+        "reverse": 0
+    },
+    "076": {
+        "base": 0,
+        "holo": 0.72,
+        "reverse": 0
+    },
+    "122": {
+        "base": 0,
+        "holo": 0.1,
+        "reverse": 0.1
+    },
+    "121": {
+        "base": 0,
+        "holo": 0.14,
+        "reverse": 0.22
+    },
+    "088": {
+        "base": 0.1,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "068": {
+        "base": 0,
+        "holo": 0.63,
+        "reverse": 0
+    },
+    "050": {
+        "base": 0,
+        "holo": 0.62,
+        "reverse": 0
+    },
+    "158": {
+        "base": 0,
+        "holo": 0.11,
+        "reverse": 0.15
+    },
+    "072": {
+        "base": 0,
+        "holo": 0.14,
+        "reverse": 0.23
+    },
+    "004": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "026": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "172": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.15
+    },
+    "129": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "240": {
+        "base": 0,
+        "holo": 3.18,
+        "reverse": 0
+    },
+    "040": {
+        "base": 0,
+        "holo": 0.07,
+        "reverse": 0.14
+    },
+    "019": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "239": {
+        "base": 0,
+        "holo": 9.26,
+        "reverse": 0
+    },
+    "092": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.14
+    },
+    "135": {
+        "base": 0,
+        "holo": 0.61,
+        "reverse": 0
+    },
+    "256": {
+        "base": 0,
+        "holo": 17.25,
+        "reverse": 0
+    },
+    "145": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "022": {
+        "base": 0,
+        "holo": 0.07,
+        "reverse": 0.13
+    },
+    "006": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "003": {
+        "base": 0,
+        "holo": 0.64,
+        "reverse": 0
+    },
+    "090": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.1
+    },
+    "028": {
+        "base": 0,
+        "holo": 0.11,
+        "reverse": 0.17
+    },
+    "036": {
+        "base": 0,
+        "holo": 0.08,
+        "reverse": 0.21
+    },
+    "073": {
+        "base": 0,
+        "holo": 0.09,
+        "reverse": 0.13
+    },
+    "201": {
+        "base": 0,
+        "holo": 5.19,
+        "reverse": 0
+    },
+    "144": {
+        "base": 0,
+        "holo": 0.07,
+        "reverse": 0.14
+    },
+    "008": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.1
+    },
+    "263": {
+        "base": 0,
+        "holo": 5.47,
+        "reverse": 0
+    },
+    "030": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "093": {
+        "base": 0,
+        "holo": 0.13,
+        "reverse": 0.14
+    },
+    "085": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.13
+    },
+    "120": {
+        "base": 0,
+        "holo": 0.1,
+        "reverse": 0.12
+    },
+    "203": {
+        "base": 0,
+        "holo": 3.98,
+        "reverse": 0
+    },
+    "018": {
+        "base": 0,
+        "holo": 0.1,
+        "reverse": 0.2
+    },
+    "173": {
+        "base": 0.07,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "244": {
+        "base": 0,
+        "holo": 3.88,
+        "reverse": 0
+    },
+    "020": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "165": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "057": {
+        "base": 0,
+        "holo": 0.1,
+        "reverse": 0.15
+    },
+    "105": {
+        "base": 0.07,
+        "holo": 0,
+        "reverse": 0.16
+    },
+    "176": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.13
+    },
+    "205": {
+        "base": 0,
+        "holo": 5.43,
+        "reverse": 0
+    },
+    "199": {
+        "base": 0,
+        "holo": 23.96,
+        "reverse": 0
+    },
+    "150": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "249": {
+        "base": 0,
+        "holo": 27.38,
+        "reverse": 0
+    },
+    "071": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.1
+    },
+    "250": {
+        "base": 0,
+        "holo": 12.32,
+        "reverse": 0
+    },
+    "198": {
+        "base": 0,
+        "holo": 8.94,
+        "reverse": 0
+    },
+    "202": {
+        "base": 0,
+        "holo": 2.33,
+        "reverse": 0
+    },
+    "243": {
+        "base": 0,
+        "holo": 1.62,
+        "reverse": 0
+    },
+    "127": {
+        "base": 0.02,
+        "holo": 0,
+        "reverse": 0.04
+    },
+    "095": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.15
+    },
+    "207": {
+        "base": 0,
+        "holo": 3.85,
+        "reverse": 0
+    },
+    "206": {
+        "base": 0,
+        "holo": 12.25,
+        "reverse": 0
+    },
+    "113": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "149": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "148": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "066": {
+        "base": 0,
+        "holo": 0.09,
+        "reverse": 0.18
+    },
+    "010": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.04
+    },
+    "055": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "236": {
+        "base": 0,
+        "holo": 3.81,
+        "reverse": 0
+    },
+    "192": {
+        "base": 0,
+        "holo": 3.31,
+        "reverse": 0
+    },
+    "146": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "041": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "128": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.14
+    },
+    "109": {
+        "base": 0,
+        "holo": 0.11,
+        "reverse": 0.13
+    },
+    "226": {
+        "base": 0,
+        "holo": 2.56,
+        "reverse": 0
+    },
+    "077": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.04
+    },
+    "266": {
+        "base": 0,
+        "holo": 6.47,
+        "reverse": 0
+    },
+    "220": {
+        "base": 0,
+        "holo": 3.61,
+        "reverse": 0
+    },
+    "078": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "251": {
+        "base": 0,
+        "holo": 57.17,
+        "reverse": 0
+    },
+    "241": {
+        "base": 0,
+        "holo": 2.44,
+        "reverse": 0
+    },
+    "001": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "074": {
+        "base": 0,
+        "holo": 0.1,
+        "reverse": 0.17
+    },
+    "061": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "210": {
+        "base": 0,
+        "holo": 3.33,
+        "reverse": 0
+    },
+    "012": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "136": {
+        "base": 0,
+        "holo": 0.09,
+        "reverse": 0.13
+    },
+    "169": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "208": {
+        "base": 0,
+        "holo": 10.78,
+        "reverse": 0
+    },
+    "064": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "029": {
+        "base": 0,
+        "holo": 0.1,
+        "reverse": 0.14
+    },
+    "216": {
+        "base": 0,
+        "holo": 4.33,
+        "reverse": 0
+    },
+    "002": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "189": {
+        "base": 0,
+        "holo": 3.71,
+        "reverse": 0
+    },
+    "262": {
+        "base": 0,
+        "holo": 10.37,
+        "reverse": 0
+    },
+    "238": {
+        "base": 0,
+        "holo": 4.84,
+        "reverse": 0
+    },
+    "193": {
+        "base": 0,
+        "holo": 7.16,
+        "reverse": 0
+    },
+    "195": {
+        "base": 0,
+        "holo": 3.23,
+        "reverse": 0
+    },
+    "252": {
+        "base": 0,
+        "holo": 27.6,
+        "reverse": 0
+    },
+    "213": {
+        "base": 0,
+        "holo": 3.93,
+        "reverse": 0
+    },
+    "188": {
+        "base": 0,
+        "holo": 2.79,
+        "reverse": 0
+    },
+    "197": {
+        "base": 0,
+        "holo": 4.96,
+        "reverse": 0
+    },
+    "229": {
+        "base": 0,
+        "holo": 9.64,
+        "reverse": 0
+    },
+    "214": {
+        "base": 0,
+        "holo": 3.99,
+        "reverse": 0
+    },
+    "194": {
+        "base": 0,
+        "holo": 6.82,
+        "reverse": 0
+    },
+    "118": {
+        "base": 0,
+        "holo": 0.13,
+        "reverse": 0.1
+    },
+    "184": {
+        "base": 0,
+        "holo": 1.84,
+        "reverse": 0
+    },
+    "225": {
+        "base": 0,
+        "holo": 6.29,
+        "reverse": 0
+    },
+    "142": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "246": {
+        "base": 0,
+        "holo": 11.91,
+        "reverse": 0
+    },
+    "025": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "017": {
+        "base": 0.09,
+        "holo": 0,
+        "reverse": 0.13
+    },
+    "134": {
+        "base": 0,
+        "holo": 0.08,
+        "reverse": 0.13
+    },
+    "005": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.15
+    },
+    "054": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.13
+    },
+    "099": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.16
+    },
+    "215": {
+        "base": 0,
+        "holo": 2.7,
+        "reverse": 0
+    },
+    "059": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "042": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "147": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "254": {
+        "base": 0,
+        "holo": 9.23,
+        "reverse": 0
+    },
+    "183": {
+        "base": 0,
+        "holo": 1.93,
+        "reverse": 0
+    },
+    "187": {
+        "base": 0,
+        "holo": 4.93,
+        "reverse": 0
+    },
+    "114": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "007": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.04
+    },
+    "138": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.1
+    },
+    "242": {
+        "base": 0,
+        "holo": 1.51,
+        "reverse": 0
+    },
+    "235": {
+        "base": 0,
+        "holo": 2.19,
+        "reverse": 0
+    },
+    "185": {
+        "base": 0,
+        "holo": 3.71,
+        "reverse": 0
+    },
+    "133": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "258": {
+        "base": 0,
+        "holo": 7.61,
+        "reverse": 0
+    },
+    "153": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "009": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "161": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "191": {
+        "base": 0,
+        "holo": 3.54,
+        "reverse": 0
+    },
+    "253": {
+        "base": 0,
+        "holo": 20.15,
+        "reverse": 0
+    },
+    "151": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "212": {
+        "base": 0,
+        "holo": 5.65,
+        "reverse": 0
+    },
+    "204": {
+        "base": 0,
+        "holo": 6.03,
+        "reverse": 0
+    },
+    "219": {
+        "base": 0,
+        "holo": 5.5,
+        "reverse": 0
+    },
+    "060": {
+        "base": 0.07,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "233": {
+        "base": 0,
+        "holo": 2.91,
+        "reverse": 0
+    },
+    "245": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "186": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "230": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "111": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "227": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "255": {
+        "base": 0,
+        "holo": 19.17,
+        "reverse": 0
+    },
+    "247": {
+        "base": 0,
+        "holo": 13.05,
+        "reverse": 0
+    },
+    "211": {
+        "base": 0,
+        "holo": 4.17,
+        "reverse": 0
+    },
+    "131": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "053": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "021": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "039": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "045": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.2
+    },
+    "033": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "190": {
+        "base": 0,
+        "holo": 5.47,
+        "reverse": 0
+    },
+    "130": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "031": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "228": {
+        "base": 0,
+        "holo": 4.16,
+        "reverse": 0
+    },
+    "143": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "023": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "062": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "196": {
+        "base": 0,
+        "holo": 5.74,
+        "reverse": 0
+    },
+    "261": {
+        "base": 0,
+        "holo": 5.91,
+        "reverse": 0
+    },
+    "218": {
+        "base": 0,
+        "holo": 2.98,
+        "reverse": 0
+    },
+    "174": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "217": {
+        "base": 0,
+        "holo": 1.48,
+        "reverse": 0
+    },
+    "067": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "052": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "209": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "222": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "265": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "259": {
+        "base": 0,
+        "holo": 8.65,
+        "reverse": 0
+    },
+    "234": {
+        "base": 0,
+        "holo": 1.65,
+        "reverse": 0
+    },
+    "080": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "024": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "083": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "224": {
+        "base": 0,
+        "holo": 2.08,
+        "reverse": 0
+    },
+    "132": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "102": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "112": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.13
+    },
+    "075": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "221": {
+        "base": 0,
+        "holo": 1.75,
+        "reverse": 0
+    },
+    "065": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "152": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "237": {
+        "base": 0,
+        "holo": 1.41,
+        "reverse": 0
+    },
+    "106": {
+        "base": 0.02,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "084": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "231": {
+        "base": 0,
+        "holo": 9.16,
+        "reverse": 0
+    },
+    "119": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "200": {
+        "base": 0,
+        "holo": 3.97,
+        "reverse": 0
+    },
+    "043": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "103": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "015": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "013": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "154": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "257": {
+        "base": 0,
+        "holo": 10.0,
+        "reverse": 0
+    },
+    "260": {
+        "base": 0,
+        "holo": 9.44,
+        "reverse": 0
+    },
+    "101": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "232": {
+        "base": 0,
+        "holo": 1.89,
+        "reverse": 0
+    },
+    "116": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "011": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "082": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "115": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "034": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.1
+    },
+    "035": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "014": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "051": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "110": {
+        "base": 0.02,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "016": {
+        "base": 0.08,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "096": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "079": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "048": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "047": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "063": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "Code Card - Paradox Rift Build & Battle Box - SV04: Paradox Rift (SV04)": {
+        "base": 0.3,
+        "holo": 0,
+        "reverse": 0
+    },
+    "069": {
+        "base": 0.02,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "037": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "117": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "097": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "157": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "044": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "Code Card - Paradox Rift Elite Trainer Box [Roaring Moon] - SV04: Paradox Rift (SV04)": {
+        "base": 0.22,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift 3 Pack Blister [Cetitan] - SV04: Paradox Rift (SV04)": {
+        "base": 0.27,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift Pokemon Center Elite Trainer Box (Exclusive) - SV04: Paradox Rift (SV04)": {
+        "base": 0.89,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift Single Pack Blister [Pineco] - SV04: Paradox Rift (SV04)": {
+        "base": 0.36,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift Elite Trainer Box [Iron Valiant] - SV04: Paradox Rift (SV04)": {
+        "base": 0.19,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift Single Pack Blister [Sinisteal] - SV04: Paradox Rift (SV04)": {
+        "base": 0.34,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift 3 Pack Blister [Arctibax] - SV04: Paradox Rift (SV04)": {
+        "base": 0.34,
+        "holo": 0,
+        "reverse": 0
+    }
+}

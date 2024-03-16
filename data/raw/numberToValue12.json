@@ -1,0 +1,57 @@
+{
+    "117": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "097": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "157": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "044": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "Code Card - Paradox Rift Elite Trainer Box [Roaring Moon] - SV04: Paradox Rift (SV04)": {
+        "base": 0.22,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift 3 Pack Blister [Cetitan] - SV04: Paradox Rift (SV04)": {
+        "base": 0.27,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift Pokemon Center Elite Trainer Box (Exclusive) - SV04: Paradox Rift (SV04)": {
+        "base": 0.89,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift Single Pack Blister [Pineco] - SV04: Paradox Rift (SV04)": {
+        "base": 0.36,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift Elite Trainer Box [Iron Valiant] - SV04: Paradox Rift (SV04)": {
+        "base": 0.19,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift Single Pack Blister [Sinisteal] - SV04: Paradox Rift (SV04)": {
+        "base": 0.34,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift 3 Pack Blister [Arctibax] - SV04: Paradox Rift (SV04)": {
+        "base": 0.34,
+        "holo": 0,
+        "reverse": 0
+    }
+}

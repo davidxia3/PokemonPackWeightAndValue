@@ -1,0 +1,122 @@
+{
+    "114": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "007": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.04
+    },
+    "138": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.1
+    },
+    "242": {
+        "base": 0,
+        "holo": 1.51,
+        "reverse": 0
+    },
+    "235": {
+        "base": 0,
+        "holo": 2.19,
+        "reverse": 0
+    },
+    "185": {
+        "base": 0,
+        "holo": 3.71,
+        "reverse": 0
+    },
+    "133": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "258": {
+        "base": 0,
+        "holo": 7.61,
+        "reverse": 0
+    },
+    "153": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "009": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "161": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.11
+    },
+    "191": {
+        "base": 0,
+        "holo": 3.54,
+        "reverse": 0
+    },
+    "253": {
+        "base": 0,
+        "holo": 20.15,
+        "reverse": 0
+    },
+    "151": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "212": {
+        "base": 0,
+        "holo": 5.65,
+        "reverse": 0
+    },
+    "204": {
+        "base": 0,
+        "holo": 6.03,
+        "reverse": 0
+    },
+    "219": {
+        "base": 0,
+        "holo": 5.5,
+        "reverse": 0
+    },
+    "060": {
+        "base": 0.07,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "233": {
+        "base": 0,
+        "holo": 2.91,
+        "reverse": 0
+    },
+    "245": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "186": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "230": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "111": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    },
+    "227": {
+        "base": 3.33,
+        "holo": 0,
+        "reverse": 0
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "013": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "154": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "257": {
+        "base": 0,
+        "holo": 10.0,
+        "reverse": 0
+    },
+    "260": {
+        "base": 0,
+        "holo": 9.44,
+        "reverse": 0
+    },
+    "101": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "232": {
+        "base": 0,
+        "holo": 1.89,
+        "reverse": 0
+    },
+    "116": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "011": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "082": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "115": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "034": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.1
+    },
+    "035": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "014": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "051": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "110": {
+        "base": 0.02,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "016": {
+        "base": 0.08,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "096": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.05
+    },
+    "079": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "048": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "047": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.07
+    },
+    "063": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "Code Card - Paradox Rift Build & Battle Box - SV04: Paradox Rift (SV04)": {
+        "base": 0.3,
+        "holo": 0,
+        "reverse": 0
+    },
+    "069": {
+        "base": 0.02,
+        "holo": 0,
+        "reverse": 0.09
+    },
+    "037": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.07
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "003": {
+        "base": 0,
+        "holo": 0.64,
+        "reverse": 0
+    },
+    "090": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.1
+    },
+    "028": {
+        "base": 0,
+        "holo": 0.11,
+        "reverse": 0.17
+    },
+    "036": {
+        "base": 0,
+        "holo": 0.08,
+        "reverse": 0.21
+    },
+    "073": {
+        "base": 0,
+        "holo": 0.09,
+        "reverse": 0.13
+    },
+    "201": {
+        "base": 0,
+        "holo": 5.19,
+        "reverse": 0
+    },
+    "144": {
+        "base": 0,
+        "holo": 0.07,
+        "reverse": 0.14
+    },
+    "008": {
+        "base": 0.04,
+        "holo": 0,
+        "reverse": 0.1
+    },
+    "263": {
+        "base": 0,
+        "holo": 5.47,
+        "reverse": 0
+    },
+    "030": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.08
+    },
+    "093": {
+        "base": 0,
+        "holo": 0.13,
+        "reverse": 0.14
+    },
+    "085": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.13
+    },
+    "120": {
+        "base": 0,
+        "holo": 0.1,
+        "reverse": 0.12
+    },
+    "203": {
+        "base": 0,
+        "holo": 3.98,
+        "reverse": 0
+    },
+    "018": {
+        "base": 0,
+        "holo": 0.1,
+        "reverse": 0.2
+    },
+    "173": {
+        "base": 0.07,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "244": {
+        "base": 0,
+        "holo": 3.88,
+        "reverse": 0
+    },
+    "020": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.06
+    },
+    "165": {
+        "base": 0.05,
+        "holo": 0,
+        "reverse": 0.12
+    },
+    "057": {
+        "base": 0,
+        "holo": 0.1,
+        "reverse": 0.15
+    },
+    "105": {
+        "base": 0.07,
+        "holo": 0,
+        "reverse": 0.16
+    },
+    "176": {
+        "base": 0.06,
+        "holo": 0,
+        "reverse": 0.13
+    },
+    "205": {
+        "base": 0,
+        "holo": 5.43,
+        "reverse": 0
+    },
+    "199": {
+        "base": 0,
+        "holo": 23.96,
+        "reverse": 0
+    }
+}
