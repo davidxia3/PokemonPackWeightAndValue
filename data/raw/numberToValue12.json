@@ -34,11 +34,6 @@
         "holo": 0,
         "reverse": 0
     },
-    "Code Card - Paradox Rift Single Pack Blister [Pineco] - SV04: Paradox Rift (SV04)": {
-        "base": 0.36,
-        "holo": 0,
-        "reverse": 0
-    },
     "Code Card - Paradox Rift Elite Trainer Box [Iron Valiant] - SV04: Paradox Rift (SV04)": {
         "base": 0.19,
         "holo": 0,
@@ -46,6 +41,11 @@
     },
     "Code Card - Paradox Rift Single Pack Blister [Sinisteal] - SV04: Paradox Rift (SV04)": {
         "base": 0.34,
+        "holo": 0,
+        "reverse": 0
+    },
+    "Code Card - Paradox Rift Single Pack Blister [Pineco] - SV04: Paradox Rift (SV04)": {
+        "base": 0.36,
         "holo": 0,
         "reverse": 0
     },

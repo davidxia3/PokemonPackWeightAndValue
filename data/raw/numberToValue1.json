@@ -5,19 +5,19 @@
         "reverse": 0
     },
     "163": {
-        "base": 1.05,
+        "base": 1.03,
         "holo": 0,
-        "reverse": 4.09
+        "reverse": 4.05
     },
     "160": {
-        "base": 0.71,
+        "base": 0.7,
         "holo": 0,
         "reverse": 1.72
     },
     "170": {
         "base": 0.22,
         "holo": 0,
-        "reverse": 0.53
+        "reverse": 0.52
     },
     "159": {
         "base": 0.19,
@@ -25,33 +25,33 @@
         "reverse": 0.31
     },
     "180": {
-        "base": 0.12,
+        "base": 0.13,
         "holo": 0,
-        "reverse": 0.62
+        "reverse": 0.61
     },
     "164": {
         "base": 0.13,
         "holo": 0,
-        "reverse": 0.39
+        "reverse": 0.38
     },
     "178": {
-        "base": 0.19,
+        "base": 0.18,
         "holo": 0,
-        "reverse": 0.65
+        "reverse": 0.66
     },
     "177": {
-        "base": 0.16,
+        "base": 0.15,
         "holo": 0,
         "reverse": 0.29
     },
     "126": {
-        "base": 0.24,
+        "base": 0.23,
         "holo": 0,
-        "reverse": 0.25
+        "reverse": 0.26
     },
     "070": {
         "base": 0,
-        "holo": 14.69,
+        "holo": 14.43,
         "reverse": 0
     },
     "171": {
@@ -66,7 +66,7 @@
     },
     "139": {
         "base": 0,
-        "holo": 5.31,
+        "holo": 5.29,
         "reverse": 0
     },
     "182": {
@@ -76,47 +76,47 @@
     },
     "124": {
         "base": 0,
-        "holo": 6.41,
+        "holo": 6.57,
         "reverse": 0
     },
     "181": {
         "base": 0.12,
         "holo": 0,
-        "reverse": 0.22
+        "reverse": 0.21
     },
     "179": {
         "base": 0.11,
         "holo": 0,
-        "reverse": 0.28
+        "reverse": 0.29
     },
     "086": {
         "base": 0.09,
         "holo": 0,
-        "reverse": 0.22
+        "reverse": 0.21
     },
     "089": {
         "base": 0,
-        "holo": 1.55,
+        "holo": 1.54,
         "reverse": 0
     },
     "058": {
         "base": 0,
-        "holo": 1.37,
+        "holo": 1.4,
+        "reverse": 0
+    },
+    "038": {
+        "base": 0,
+        "holo": 1.47,
         "reverse": 0
     },
     "056": {
         "base": 0.07,
         "holo": 0,
-        "reverse": 0.23
+        "reverse": 0.22
     },
-    "038": {
+    "046": {
         "base": 0,
-        "holo": 1.48,
+        "holo": 1.33,
         "reverse": 0
-    },
-    "123": {
-        "base": 0,
-        "holo": 0.16,
-        "reverse": 0.23
     }
 }

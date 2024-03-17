@@ -1,17 +1,17 @@
 {
-    "046": {
+    "123": {
         "base": 0,
-        "holo": 1.31,
+        "holo": 0.16,
+        "reverse": 0.23
+    },
+    "098": {
+        "base": 0,
+        "holo": 0.82,
         "reverse": 0
     },
     "108": {
         "base": 0,
         "holo": 1.07,
-        "reverse": 0
-    },
-    "098": {
-        "base": 0,
-        "holo": 0.83,
         "reverse": 0
     },
     "032": {
@@ -39,19 +39,24 @@
         "holo": 0,
         "reverse": 0.12
     },
-    "104": {
-        "base": 0,
-        "holo": 0.06,
-        "reverse": 0.15
-    },
     "155": {
         "base": 0,
         "holo": 0.78,
         "reverse": 0
     },
+    "104": {
+        "base": 0,
+        "holo": 0.06,
+        "reverse": 0.15
+    },
     "248": {
         "base": 0,
-        "holo": 31.23,
+        "holo": 31.21,
+        "reverse": 0
+    },
+    "223": {
+        "base": 0,
+        "holo": 20.11,
         "reverse": 0
     },
     "107": {
@@ -59,14 +64,9 @@
         "holo": 0,
         "reverse": 0.17
     },
-    "223": {
-        "base": 0,
-        "holo": 19.92,
-        "reverse": 0
-    },
     "027": {
         "base": 0,
-        "holo": 0.7,
+        "holo": 0.68,
         "reverse": 0
     },
     "137": {
@@ -74,49 +74,49 @@
         "holo": 0.69,
         "reverse": 0
     },
-    "091": {
-        "base": 0.03,
-        "holo": 0,
-        "reverse": 0.06
-    },
     "162": {
         "base": 0.07,
         "holo": 0,
         "reverse": 0.13
+    },
+    "091": {
+        "base": 0.03,
+        "holo": 0,
+        "reverse": 0.06
     },
     "168": {
         "base": 0.04,
         "holo": 0,
         "reverse": 0.12
     },
-    "156": {
-        "base": 0,
-        "holo": 0.68,
-        "reverse": 0
-    },
-    "100": {
-        "base": 0,
-        "holo": 0.59,
-        "reverse": 0
-    },
     "125": {
         "base": 0,
         "holo": 0.08,
         "reverse": 0.16
+    },
+    "100": {
+        "base": 0,
+        "holo": 0.58,
+        "reverse": 0
+    },
+    "156": {
+        "base": 0,
+        "holo": 0.66,
+        "reverse": 0
+    },
+    "264": {
+        "base": 0,
+        "holo": 9.94,
+        "reverse": 0
     },
     "175": {
         "base": 0.07,
         "holo": 0,
         "reverse": 0.19
     },
-    "094": {
-        "base": 0.08,
-        "holo": 0,
-        "reverse": 0.13
-    },
-    "264": {
+    "140": {
         "base": 0,
-        "holo": 9.91,
+        "holo": 0.5,
         "reverse": 0
     }
 }

@@ -29,7 +29,6 @@ for searchResult in searchResults:
     link = searchResult.find_element(By.CLASS_NAME, "search-result__content").find_element(By.TAG_NAME, "a").get_attribute("href")
     links.append(link)
 
-print(len(searchResults))
 for link in links:
     driver.get(link)
 
@@ -49,14 +48,13 @@ for link in links:
     
     for i in range(1, len(tableHead)):
         text = driver.execute_script("return arguments[0].textContent;", tableHead[i])
-        print(text)
         if text == "Normal":
             headers["base"][0] = i
         elif text == "Holofoil":
             headers["holo"][0] = i
         elif text == "Reverse Holofoil":
             headers["reverse"][0] = i
-    print(headers)
+    
 
     tableRows = chart.find_element(By.TAG_NAME, "tbody").find_elements(By.TAG_NAME, "tr")[-1].find_elements(By.TAG_NAME, "td")
 
@@ -68,7 +66,6 @@ for link in links:
 
     details = driver.find_element(By.CLASS_NAME, "product__item-details__attributes")
     info = details.find_element(By.TAG_NAME, "li").find_element(By.TAG_NAME, "span").text
-    print(info)
 
     if info.find("Code Card") != -1:
         name = driver.find_element(By.CLASS_NAME, "product-details__name").text
@@ -84,8 +81,8 @@ for link in links:
 
 
 
-with open("data/raw/numberToValue" + str(page) + ".json", "w") as json_file:
-    json.dump(cards, json_file, indent=4)
+with open("data/raw/numberToValue" + str(page) + ".json", "w") as file:
+    json.dump(cards, file, indent=4)
 
 
 
