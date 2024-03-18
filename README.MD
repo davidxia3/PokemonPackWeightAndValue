@@ -2,7 +2,7 @@
 
 This project focuses on analyzing the linear relationship between a Pokemon booster pack's weight and the value of its contents. 
 
-## Disclimers
+## Disclaimers
 
 - This project is purely for enjoyment. All 36 packs had already been purchased before weighing or analyzing. I think pre-weighing in stores ruins the fun and excitement for everyone.
 
